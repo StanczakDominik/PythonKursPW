@@ -18,6 +18,6 @@ na adresie typu `http://localhost:8888/` i wpisując ten adres w przeglądarkę 
 4. Tworzymy nowy notebook (prawo, New -> Python 3), otwieramy go, zaczynamy kodzić - podobnie jak w Mathematice
 
 ### Przydatne jupyterowe skróty
-SHIFT-ENTER: wykonuje komórkę i przechodzi do kolejnej
-CTRL-SHIFT-P: pokazuje listę\szukajkę wszystkich możliwych komend z hotkeyami
+* SHIFT-ENTER: wykonuje komórkę i przechodzi do kolejnej
+* CTRL-SHIFT-P: pokazuje listę\szukajkę wszystkich możliwych komend z hotkeyami, dzięki czemu nie muszę wypisywać reszty ;)
   
